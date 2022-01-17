@@ -192,3 +192,10 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone.svg");
 }
+
+.site {
+   color: #FFD201;
+   letter-spacing: 1px;
+   border-bottom: 1px solid transparent;
+   border-top: 1px solid transparent;
+}
